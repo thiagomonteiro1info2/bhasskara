@@ -1,0 +1,32 @@
+
+
+@charset "UTF-8";
+
+
+
+.main{ 
+  
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        min-height: 100vh;
+        
+
+        
+}
+
+body{
+    background-image: url(https://wallpaper.dog/large/11007600.jpg);
+    background-repeat:no-repeat;
+    background-size: cover;
+    
+
+}
+
+.bhaskara{
+    padding: 1em;
+    box-shadow: 6px 6px 20px gray, -6px -6px 20px white;
+    background-color: #dfdbe5;
+    flex-direction: column;
+}
+
